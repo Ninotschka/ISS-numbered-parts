@@ -13,8 +13,17 @@ The concept was to create a poster where you can learn about the current parts o
 
 After making sure I knew each part and its full biography, I started writing down little texts and began drafting.
 
+
+
+![Remarq Report](https://github.com/Ninotschka/ISS-the-storys-of-the-parts-/blob/master/schriften.png)
+
+
 I wanted to experiment with the colors and see if the theme would still be visible and clear, even if I separated with the gloomy star sky look I've seen so many times before. The cold light pink background reminded me of retro-futurism, as in *2001: A Space Odyssey* and *Barbarella.*
 
-Since this was my first experience creating an infographic, there were a few mistakes I made in the process. In my wish to make the infographic subtle and calm, I picked colors that are hardly visible and barely distinctive from one another. That harms the information flow, because you can't tell the difference between the colors of the Russian modules and the Jaxa ones.
 
+![Remarq Report](https://github.com/Ninotschka/ISS-the-storys-of-the-parts-/blob/master/farben.png)
+
+
+Since this was my first experience creating an infographic, there were a few mistakes I made in the process. In my wish to make the infographic subtle and calm, I picked colors that are hardly visible and barely distinctive from one another. That harms the information flow, because you can't tell the difference between the colors of the Russian modules and the Jaxa ones.
+![Remarq Report](https://github.com/Ninotschka/ISS-the-storys-of-the-parts-/blob/master/ISS%20visualisation%20plakat.png)
 I see the mistakes now very clearly, and it was a valuable lesson.
